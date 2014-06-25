@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RK Noter</string>
+    <string name="share">Share</string>
+
+    <!-- Prefs -->
+
+    <string name="save_intent_enable_pref">interceptEnabled</string>
+    <string name="enable_intent_saving">Enable saving</string>
+
+    <string name="separator_enable_pref">separatorsEnabled</string>
+    <string name="enable_note_separators">Use separator lines between notes</string>
+
+    <string name="confirmation_toast_enable_pref">confirmationToastEnabled</string>
+    <string name="enable_confirmation_toast">Confirm note has been saved</string>
+    <string name="enable_confirmation_toast_summary">Show a message (a.k.a. toast) when notes are saved</string>
+
+    <string name="separator_content_pref">separatorsContent</string>
+    <string name="note_separators_content_default">\n----\n</string>
+    <string name="note_separators_content">Separator to use</string>
+    <string name="note_separators_content_message">You should probably use at least a new line or a space!</string>
+
+    <string name="save_folder_default">RK Noter</string>
+    <string name="save_folder_pref">saveFolder</string>
+    <string name="save_folder_title">Save folder</string>
+    <string name="save_folder_message">Directory on your external storage in which to save your notes</string>
+
+</resources>

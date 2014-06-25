@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+
+        <CheckBox
+            android:defaultValue="true"
+            android:key="@string/separator_enable_pref"
+            android:title="@string/enable_note_separators"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <EditText
+            android:defaultValue="@string/note_separators_content_default"
+            android:key="@string/separator_content_pref"
+            android:title="@string/note_separators_content"
+            android:dialogMessage="@string/note_separators_content_message"
+            android:hint="@string/note_separators_content_default"
+            android:layout_height="match_parent"
+            android:layout_width="match_parent" />
+        <EditText
+            android:defaultValue="@string/save_folder_default"
+            android:key="@string/save_folder_pref"
+            android:title="@string/save_folder_title"
+            android:dialogMessage="@string/save_folder_message"
+            android:hint="@string/save_folder_default"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+
+</LinearLayout>
