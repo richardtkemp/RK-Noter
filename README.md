@@ -1,9 +1,6 @@
-intent-intercept
+RK Noter
 ================
 
-Intent Intercept Android app
+Small android app to save shared text to a directory on the file system.
 
-https://play.google.com/store/apps/details?id=uk.co.ashtonbrsc.android.intentintercept&hl=en
-
-## License
-Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html)
+See here for details - http://forum.xda-developers.com/showthread.php?t=2793647
