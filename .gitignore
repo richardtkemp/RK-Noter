@@ -33,7 +33,7 @@ build/
 .gradle
 gradle*
 settings.gradle
-intent-intercept.iml
+RK-Noter.iml
 build.gradle
 
 # OS X
